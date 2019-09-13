@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/solviofoundation/amos-topics/issues"
   },
-  "homepage": "https://github.com/solviofoundation/amos-topics#readme"
+  "homepage": "https://github.com/solviofoundation/amos-topics#readme",
+  "peerDependencies": {
+    "amos-parser": "github:solviofoundation/amos-parser#master"
+  }
 }
