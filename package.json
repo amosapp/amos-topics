@@ -2,7 +2,7 @@
   "name": "@solviofoundation/amos-topics",
   "version": "1.0.0",
   "description": "## Licenses All work here is dedicated to the public domain. Read the summary [here](https://creativecommons.org/publicdomain/zero/1.0/) and the full legal text [here](./LICENSE.md).",
-  "main": "src/topics.amos",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +21,8 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "ramda": "^0.26.1"
   }
 }
