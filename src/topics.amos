@@ -1,11 +1,637 @@
-Computer science
-  Data structures and algorithms
-  Databases
-  Theory of computation
-  Programming languages and compilers
-  Concurrent, parallel, and distributed systems
-  Computer networks
-  Computer architecture
-  Cryptography
-  Artificial intelligence
-  Computer graphics
+# Academic
+  Hard sciences
+    Formal sciences
+      Mathematics
+        Foundations of mathematics
+          Mathematical logic
+          Proof theory / Constructive mathematics
+          Model theory
+          Set theory
+        Discrete mathematics / Algebra
+          Combinatorics
+          Graph theory  
+          Algebraic structures
+          Number theory
+        Mathematical analysis
+        Geometry and topology
+        Applied mathematics
+          Probability theory
+          Statistics
+          Numerical analysis
+      Computer science
+        Data structures and algorithms
+        Databases
+        Theory of computation
+        Programming languages and compilers
+        Concurrent, parallel, and distributed systems
+        Computer networks
+        Computer architecture
+        Cryptography
+        Artificial intelligence
+        Computer graphics
+      Information theory
+      Game theory
+      Systems theory
+    Natural sciences
+      Physics
+        Classical mechanics
+        Thermodynamics and statistical mechanics
+        Electromagnetism and electronics
+        Theory of relativity
+        Quantum mechanics
+        Atomic, molecular, and optical physics
+        Condensed matter physics
+        Particle and nuclear physics
+        Astrophysics
+      Chemistry
+        Physical chemistry
+        Organic chemistry and biochemistry
+        Inorganic chemistry
+        Analytical chemistry
+      Biology
+        Anatomy
+        Astrobiology / Exobiology / Bioastronomy
+        Biochemistry
+        Biogeography
+        Biophysics
+        Biotechnology
+        Botany
+        Cell biology
+        Chronobiology
+        Developmental biology
+        Ecology
+        Epidemiology
+        Ethnobiology
+        Evolutionary biology
+        Genetics
+        Immunology
+        Marine biology
+        Microbiology
+        Molecular biology
+        Neuroscience
+        Physiology
+        Theoretical biology
+        Systems biology
+        Zoology
+      Earth sciences
+        Environmental science
+        Geophysics and geodesy
+        Volcanology
+        Physical geography / Geosystems / Physiography
+          Atmospheric science / Meteorology
+          Biogeography / Phytogeography
+          Climatology / Paleoclimatology / Palaeogeography / Paleogeography
+          Coastal geography / Oceanography
+          Soil science / Pedology / Edaphology
+          Geobiology
+          Geology
+          Geomorphology
+          Geostatistics
+          Glaciology
+          Hydrology / Limnology
+          Landscape ecology
+          Quaternary science
+    Engineering and Technology
+        Aerospace
+        Biological engineering
+          Agricultural engineering
+          Biochemical engineering
+          Biomechanical engineering
+          Ergonomics
+          Food engineering
+          Bioprocess engineering
+          Genetic engineering
+          Human Factors
+          Human genetic engineering
+          Metabolic engineering
+          Molecular engineering
+          Neural engineering
+          Protein engineering
+          Rehabilitation engineering
+          Tissue engineering
+        Civil engineering
+          Aquatic and environmental engineering
+          Architectural engineering
+          Civionic engineering / civionics
+          Construction engineering
+          Earthquake engineering
+          Earth systems engineering and management
+          Ecological engineering
+          Environmental engineering
+          Geomatics engineering
+          Geotechnical engineering
+          Highway engineering
+          Hydraulic engineering
+          Landscape engineering / landscape architecture
+          Railway systems engineering
+          River engineering
+          Sanitary engineering
+          Sewage engineering
+          Structural engineering
+          Surveying
+          Traffic engineering
+          Transportation engineering / Transport engineering
+          Urban engineering / Municipal engineering
+          Irrigation and agriculture engineering
+        Chemical engineering
+          Explosives engineering
+          Biomolecular engineering
+          Process engineering
+        Electrical engineering and computer engineering
+          Broadcast engineering
+          Building engineering
+          Signal Processing
+          Computer engineering
+          Power systems engineering
+          Control engineering
+          Telecommunications engineering
+          Electronic engineering
+            Microelectronics engineering
+            Semiconductor engineering
+          Instrumentation engineering
+          Network engineering
+          Neuromorphic engineering
+        Industrial engineering
+          Domain engineering
+          Engineering economics
+          Engineering management
+          Engineering psychology
+          Ergonomics
+          Facilities engineering
+          Logistic engineering
+          Model-driven engineering
+          Performance engineering
+          Process engineering
+          Product Family Engineering
+          Quality engineering / Quality assurance engineering
+          Reliability engineering
+          Safety engineering
+          Security engineering
+          Support engineering
+          Systems engineering
+        Information engineering
+        Materials engineering
+          Metallurgical engineering
+          Surface engineering
+          Biomaterials engineering
+          Crystal engineering
+          Amorphous metals
+          Metal forming
+          Ceramic engineering
+          Plastics engineering
+          Forensic materials engineering
+          Composite materials
+          Casting
+          Electronic materials
+          Nano materials
+          Corrosion engineering
+          Vitreous materials
+          Welding
+        Mechanical engineering
+          Acoustical engineering
+          Aerospace engineering
+          Audio engineering
+          Automotive engineering / Automotive systems engineering
+          Building services engineering
+          Earthquake engineering
+          Forensic engineering
+          Marine engineering
+          Mechatronics
+          Nanoengineering
+          Naval architecture
+          Sports engineering
+          Structural engineering
+          Vacuum engineering
+        Military engineering
+          Combat engineering
+          Military technology engineering
+        Nuclear engineering
+          Offshore engineering
+          Optical engineering
+          Petroleum engineering
+          Geophysical engineering
+          Mineral engineering
+          Mining engineering
+          Reservoir engineering
+        Planetary engineering and climate engineering
+        Software engineering
+        Systems engineering
+        Textile engineering
+
+    Medicine and health
+      Anesthesiology
+      Cardiology
+      Critical care medicine
+      Dentistry
+      Dermatology
+      Emergency medicine
+      Endocrinology
+      Epidemiology
+      First aid
+      Gastroenterology
+      General practice / Family medicine
+      Geriatrics
+      Gynaecology
+      Hematology
+      Hepatology
+      Infectious disease
+      Internal medicine
+      Neurology
+      Nephrology
+      Obstetrics
+      Oncology
+      Ophthalmology
+      Optometry
+      Orthopaedics
+      Otorhinolaryngology
+      Pathology
+      Pediatrics
+      Preventive medicine
+      Psychiatry
+      Pulmonology
+      Radiology
+      Sports medicine
+      Rheumatology
+      Surgery
+      Urology
+  Social sciences
+    History
+    Anthropology
+      Anthropology of religion
+      Applied anthropology
+      Archaeology
+      Cultural anthropology
+      Ethnobiology
+      Ethnobotany
+      Ethnography
+      Ethnology
+      Ethnopoetics
+      Evolutionary anthropology
+      Experimental archaeology
+      Historical archaeology
+      Linguistic anthropology
+      Medical anthropology
+      Physical anthropology
+      Psychological anthropology
+      Zooarchaeology
+      Anthrozoology
+    Finance
+      # https://www.wikiwand.com/en/Outline_of_finance
+      Accounting
+      Banking
+      Corporate finance
+      Investment management
+      Personal finance
+      Financial services
+      Public finance
+      International finance
+      Financial economics
+      Financial mathematics
+      Experimental finance
+      Behavioral finance
+    Marketing
+    Business studies
+      Human resource management
+      Management
+      Organizational studies
+    Civics
+    Cognitive science
+    Criminology
+    Cultural studies
+    Demography
+    Development studies
+    Economics
+      Attention economics
+      Behavioral economics
+      Bioeconomics
+      Classical economics
+      Comparative economic systems
+      Contract theory
+      Development economics
+      Econometrics
+      Economic geography
+      Economic history
+      Economic sociology
+      Education economics
+      Energy economics
+      Engineering economics
+      Entrepreneurial economics
+      Environmental economics
+      Feminist economics
+      Financial economics
+      Georgism
+      Green economics
+      Health economics
+      Industrial organization
+      Information economics
+      International economics
+      Institutional economics
+      Islamic economics
+      Labor economics
+      Law and economics
+      Managerial economics
+      Mathematical economics
+      Monetary economics
+      Public finance
+      Public economics
+      Real estate economics
+      Regional science
+      Resource economics
+      Socialist economics
+      Welfare economics
+    Education
+    Environmental studies
+    Gender and sexuality studies
+    Geography
+      Critical geography
+      Cultural geography
+      Feminist geography
+      Economic geography
+      Development geography
+      Historical geography
+      Time geography
+      Political geography / Geopolitics
+      Marxist geography
+      Military geography
+      Strategic geography
+      Population geography
+      Social geography
+      Behavioral geography
+      Health geography
+      Tourism geography
+      Urban geography
+    Gerontology
+    Industrial relations
+    International studies
+    Law
+      # https://www.wikiwand.com/en/Outline_of_law#/Branches_of_law
+      Public law
+        Constitutional law
+        Tax law
+      Administrative law
+      Criminal law
+      Civil law
+      Substantive law and adjectival law
+        Substantive law
+        Procedural law
+      International law
+    Legal management
+    Library science
+    Linguistics
+      # https://www.wikiwand.com/en/Outline_of_linguistics#/Branches_of_linguistics
+      # Subfields
+        Theoretical Linguistics
+        Descriptive linguistics
+        Applied linguistics
+      # By linguistic structures studied
+        Phonetics
+        Phonology
+        Morphology
+        Syntax
+        Semantics
+        Pragmatics
+        Discourse analysis
+        Linguistic typology
+      # By Nonlinguistic factors studied
+        Biolinguistics
+        Clinical linguistics
+        Computational linguistics
+        Developmental linguistics
+        Evolutionary linguistics
+        Historical linguistics
+        Language geography
+        Neurolinguistics
+        Psycholinguistics
+        Sociolinguistics
+        Stylistics
+    Management
+    Media studies
+    Philosophy
+    Planning
+      Environmental planning
+      Urban planning
+      Regional planning
+    Political science
+      Comparative politics
+      Political geography / Geopolitics
+      Political economy
+      Political psychology
+      Psephology
+      Voting systems
+      Public administration
+        Public policy
+        Public health
+        Local government studies
+        International politics
+      International relations theory
+    Psychology
+      # https://www.verywellmind.com/major-branches-of-psychology-4139786
+      Abnormal psychology
+      Behavioral psychology
+      Biopsychology
+      Clinical psychology
+      Comparative psychology
+      Counseling psychology
+      Cross-cultural psychology
+      Developmental psychology
+      Educational psychology
+      Experimental psychology
+      Forensic psychology
+      Health psychology
+      Industrial-organizational psychology
+      Personality psychology
+      School psychology
+      Social psychology
+      Sports psychology
+
+    Public administration
+    Science and technology studies
+    Social work
+    Sociology
+      Analytical sociology
+      Applied sociology
+      Architectural sociology
+      Behavioral sociology
+      Chinese sociology
+      Collective behavior
+      Comparative sociology
+      Computational sociology
+      Critical sociology
+      Cultural sociology
+      Digital sociology
+      Dramaturgical sociology
+      Economic sociology
+      Educational sociology
+      Empirical sociology
+      Environmental sociology
+      Evolutionary sociology
+      Feminist sociology
+      Figurational sociology
+      Historical sociology
+      Humanistic sociology
+      Industrial sociology
+      Internet sociology
+      Interpretive sociology
+      Jealousy sociology
+      Macrosociology
+      Marxist sociology
+      Mathematical sociology
+      Medical sociology
+      Mesosociology
+      Microsociology
+      Military sociology
+      Natural resource sociology
+      Phenomenological sociology
+      Policy sociology
+      Polish sociology
+      Political sociology
+      Psychoanalytic sociology
+      Public sociology
+      Pure sociology
+      Real utopian sociology
+      Rural sociology
+      Social inequality
+      Social psychology  (sociology)
+      Sociology of aging
+      Sociology of agriculture
+      Sociology of architecture
+      Sociology of art
+      Sociology of autism
+      Sociology of childhood
+      Sociology of culture
+      Sociology of cyberspace
+      Sociology of deviance
+      Sociology of disaster
+      Sociology of education
+      Sociology of emotions
+      Sociology of fatherhood
+      Sociology of finance
+      Sociology of food
+      Sociology of gender
+      Sociology of generations
+      Sociology of globalization
+      Sociology of government
+      Sociology of health and illness
+      Sociology of human consciousness
+      Sociology of immigration
+      Sociology of knowledge
+      Sociology of language
+      Sociology of law
+      Sociology of leisure
+      Sociology of literature
+      Sociology of markets
+      Sociology of marriage
+      Sociology of motherhood
+      Sociology of music
+      Sociology of organizations
+      Sociology of peace, war, and social conflict
+      Sociology of philosophy
+      Sociology of punishment
+      Sociology of race and ethnic relations
+      Sociology of religion
+      Sociology of risk
+      Sociology of science
+      Sociology of scientific knowledge
+      Sociology of social movements
+      Sociology of sociology
+      Sociology of space
+      Sociology of sport
+      Sociology of terrorism
+      Sociology of the body
+      Sociology of the family
+      Sociology of the history of science
+      Sociology of the Internet
+      Sociology of work
+      Sociography
+      Structural sociology
+      Theoretical sociology
+      Urban sociology
+      Visual sociology
+      # Multidisciplinary and interdisciplinary fields involving sociology
+      Agnotology
+      Agrarian studies
+      Anthrozoology
+      Area studies
+      Behavioral economics
+      Communication studies
+      Community informatics
+      Conflict theory
+      Criminology
+      Critical management studies
+      Cultural studies
+      Demography
+      Development studies
+      Disability studies
+      Environmental studies
+      Food studies
+      Future studies
+      Gender studies
+      Geodemography
+      Global studies
+      Gerontology
+      Human ecology
+      Internet studies
+      Leisure studies
+      Political ecology
+      Science studies
+      Science, technology and society
+      Social architecture
+      Social conflict theory
+      Social engineering
+      Social epistemology
+      Social geography
+      Social informatics
+      Social problems
+      Social theory
+      Sociobiology
+      Sociocybernetics
+      Sociolinguistics
+      Sociomapping
+      Sociometry
+      Sociomusicology
+      Systems theory
+      Urban studies
+      Victimology
+      World-systems theory
+    Sustainability studies
+      Sustainable agriculture
+  Humanities
+#    Art
+#      Music
+#      Dance
+#      Drama
+#        Acting
+#        Theatre
+#        Film
+#          Television
+#      Visual arts
+#        Drawing and painting
+#          Drawing
+#          Painting
+#        Photography
+#        Sculpture
+#        Calligraphy
+#        Architecture
+#          Interior design
+#        Design
+#          Fashion design
+#          Textile design
+#          User experience design
+#            UX design
+#            UI design
+#          Industrial design
+#              Product design
+#      Literature
+#        Creating writing
+#        Literary theory
+  Languages
+# Tools
+#  Software products
+#    View:Type
+#      Application software
+#        Desktop apps
+#        Mobile apps
+#        Web apps
+#        Server apps
+#      System software
+#      Computer programming tools
