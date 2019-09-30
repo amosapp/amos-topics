@@ -4,6 +4,7 @@
       Mathematics
         Foundations of mathematics
           Mathematical logic
+            Hoare logic
           Proof theory / Constructive mathematics
           Model theory
           Set theory
@@ -21,14 +22,35 @@
       Computer science
         Data structures and algorithms
         Databases
-        Theory of computation
+        Computation theory / Theory of computation
+          # Models of computation
+            Quantum computing
+        Complexity theory
         Programming languages and compilers
+          Formal methods
+            Semantics of programming languages
+              Denotational semantics
+            Hoare logic
+          Metaprogramming
+          Compiler theory
         Concurrent, parallel, and distributed systems
-        Computer networks
+          Blockchain
+            # Blockchain protocols
+              Bitcoin
         Computer architecture
         Cryptography
         Artificial intelligence
+          Machine learning
+            # By type
+              Neural networks
+            # By application
+              Natural language processing
+              Computer vision
+        Data science
         Computer graphics
+        Numerical analysis
+        Optimization
+          Discrete optimization
       Information theory
       Game theory
       Systems theory
@@ -92,131 +114,217 @@
           Landscape ecology
           Quaternary science
     Engineering and Technology
-        Aerospace
-        Biological engineering
-          Agricultural engineering
-          Biochemical engineering
-          Biomechanical engineering
-          Ergonomics
-          Food engineering
-          Bioprocess engineering
-          Genetic engineering
-          Human Factors
-          Human genetic engineering
-          Metabolic engineering
-          Molecular engineering
-          Neural engineering
-          Protein engineering
-          Rehabilitation engineering
-          Tissue engineering
-        Civil engineering
-          Aquatic and environmental engineering
-          Architectural engineering
-          Civionic engineering / civionics
-          Construction engineering
-          Earthquake engineering
-          Earth systems engineering and management
-          Ecological engineering
-          Environmental engineering
-          Geomatics engineering
-          Geotechnical engineering
-          Highway engineering
-          Hydraulic engineering
-          Landscape engineering / landscape architecture
-          Railway systems engineering
-          River engineering
-          Sanitary engineering
-          Sewage engineering
-          Structural engineering
-          Surveying
-          Traffic engineering
-          Transportation engineering / Transport engineering
-          Urban engineering / Municipal engineering
-          Irrigation and agriculture engineering
-        Chemical engineering
-          Explosives engineering
-          Biomolecular engineering
-          Process engineering
-        Electrical engineering and computer engineering
-          Broadcast engineering
-          Building engineering
-          Signal Processing
-          Computer engineering
-          Power systems engineering
-          Control engineering
-          Telecommunications engineering
-          Electronic engineering
-            Microelectronics engineering
-            Semiconductor engineering
-          Instrumentation engineering
-          Network engineering
-          Neuromorphic engineering
-        Industrial engineering
-          Domain engineering
-          Engineering economics
-          Engineering management
-          Engineering psychology
-          Ergonomics
-          Facilities engineering
-          Logistic engineering
-          Model-driven engineering
-          Performance engineering
-          Process engineering
-          Product Family Engineering
-          Quality engineering / Quality assurance engineering
-          Reliability engineering
-          Safety engineering
-          Security engineering
-          Support engineering
-          Systems engineering
-        Information engineering
-        Materials engineering
-          Metallurgical engineering
-          Surface engineering
-          Biomaterials engineering
-          Crystal engineering
-          Amorphous metals
-          Metal forming
-          Ceramic engineering
-          Plastics engineering
-          Forensic materials engineering
-          Composite materials
-          Casting
-          Electronic materials
-          Nano materials
-          Corrosion engineering
-          Vitreous materials
-          Welding
-        Mechanical engineering
-          Acoustical engineering
-          Aerospace engineering
-          Audio engineering
-          Automotive engineering / Automotive systems engineering
-          Building services engineering
-          Earthquake engineering
-          Forensic engineering
-          Marine engineering
-          Mechatronics
-          Nanoengineering
-          Naval architecture
-          Sports engineering
-          Structural engineering
-          Vacuum engineering
-        Military engineering
-          Combat engineering
-          Military technology engineering
-        Nuclear engineering
-          Offshore engineering
-          Optical engineering
-          Petroleum engineering
-          Geophysical engineering
-          Mineral engineering
-          Mining engineering
-          Reservoir engineering
-        Planetary engineering and climate engineering
-        Software engineering
+      Software engineering
+        # Software types
+          Operating systems
+            Operating systems security
+          Web development
+            HTML
+              HTML5
+            CSS
+              CSS3
+            Javascript
+            # Web development frameworks
+            React.js
+              React Native
+              React Redux
+            Vue.js
+            Express.js
+            Angular.js
+            Redux
+              React Redux
+            Web scraping
+            E-commerce
+        # Operating systems
+          Unix
+          Unix-like operating systems
+            Linux
+            Darwin
+              macOS
+              iOS
+            Android
+        # Virtualization
+          Docker
+        # Languages
+          # General purpose
+            Python
+              Python 3
+            C
+            C++
+              # Frameworks
+              Unreal Engine 4
+            C#
+              # Frameworks
+              Unity
+            Java
+              # Frameworks
+              Spring
+            Swift
+            Javascript
+              Node.js
+              # Frameworks
+                React.js
+                  React Router
+                Vue.js
+                Mocha
+            Ruby
+              # Frameworks
+                Ruby on Rails
+            PHP
+          # Domain specific
+            UnrealScript
+        # Programming paradigms
+          Object-oriented programming
+          Functional programming
+        # Software development paradigms
+          Agile
+        Computer networks
+          Cloud computing
+            # Cloud computing platforms
+              Amazon Web Services
+              Google Cloud Platform
+              Azure
+          Internet
+            Internet security
+            Internet of things
+        # Gadgets
+          Arduino
+          Rasberry Pi
+        # Databases
+          # Database query languages
+          # Database paradigms
+            Document-oriented databases
+              MongoDB
+          SQL
+            MySQL
+            Oracle SQL
+      Electrical engineering and computer engineering
+        Broadcast engineering
+        Building engineering
+        Signal Processing
+        Computer engineering
+          Multithreading
+          Programmable logic controller
+        Power systems engineering
+        Control engineering
+        Telecommunications engineering
+        Electronic engineering
+          Microelectronics engineering
+          Semiconductor engineering
+          Sensor systems engineering
+        Instrumentation engineering
+        Network engineering
+        Neuromorphic engineering
+      Aerospace engineering
+      Biological engineering
+        Agricultural engineering
+        Biochemical engineering
+        Biomechanical engineering
+        Ergonomics
+        Food engineering
+        Bioprocess engineering
+        Genetic engineering
+        Human Factors
+        Human genetic engineering
+        Metabolic engineering
+        Molecular engineering
+        Neural engineering
+        Protein engineering
+        Rehabilitation engineering
+        Tissue engineering
+      Civil engineering
+        Aquatic and environmental engineering
+        Architectural engineering
+        Civionic engineering / civionics
+        Construction engineering
+        Earthquake engineering
+        Earth systems engineering and management
+        Ecological engineering
+        Environmental engineering
+        Geomatics engineering
+        Geotechnical engineering
+        Highway engineering
+        Hydraulic engineering
+        Landscape engineering / landscape architecture
+        Railway systems engineering
+        River engineering
+        Sanitary engineering
+        Sewage engineering
+        Structural engineering
+        Surveying
+        Traffic engineering
+        Transportation engineering / Transport engineering
+        Urban engineering / Municipal engineering
+        Irrigation and agriculture engineering
+      Chemical engineering
+        Explosives engineering
+        Biomolecular engineering
+        Process engineering
+      Industrial engineering
+        Domain engineering
+        Engineering economics
+        Engineering management
+        Engineering psychology
+        Ergonomics
+        Facilities engineering
+        Logistic engineering
+        Model-driven engineering
+        Performance engineering
+        Process engineering
+        Product Family Engineering
+        Quality engineering / Quality assurance engineering
+        Reliability engineering
+        Safety engineering
+        Security engineering
+        Support engineering
         Systems engineering
-        Textile engineering
+      Information engineering
+      Materials engineering
+        Metallurgical engineering
+        Surface engineering
+        Biomaterials engineering
+        Crystal engineering
+        Amorphous metals
+        Metal forming
+        Ceramic engineering
+        Plastics engineering
+        Forensic materials engineering
+        Composite materials
+        Casting
+        Electronic materials
+        Nano materials
+        Corrosion engineering
+        Vitreous materials
+        Welding
+      Mechanical engineering
+        Acoustical engineering
+        Aerospace engineering
+        Audio engineering
+        Automotive engineering / Automotive systems engineering
+        Building services engineering
+        Earthquake engineering
+        Forensic engineering
+        Marine engineering
+        Mechatronics
+        Nanoengineering
+        Naval architecture
+        Sports engineering
+        Structural engineering
+        Vacuum engineering
+      Military engineering
+        Combat engineering
+        Military technology engineering
+      Nuclear engineering
+        Offshore engineering
+        Optical engineering
+        Petroleum engineering
+        Geophysical engineering
+        Mineral engineering
+        Mining engineering
+        Reservoir engineering
+      Planetary engineering and climate engineering
+      Systems engineering
+      Textile engineering
 
     Medicine and health
       Anesthesiology
