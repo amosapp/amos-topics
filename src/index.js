@@ -8,8 +8,8 @@ fs = require (`fs`),
 R = require (`ramda`),
 topics_ = require (`./topics.amos`),
 
-/* Split & trim */
-topicsLines_ = R.map (R.trim) (R.split (`\n`) (topics_)),
+/* Split & trim end*/
+topicsLines_ = R.map (R.replace (/\s*$/g) (``)) (R.split (`\n`) (topics_)),
 
 /* Remove comments and empty lines */
 topicsLines = R.reject (R.either (R.isEmpty) (R.startsWith (`#`))) (topicsLines_),
