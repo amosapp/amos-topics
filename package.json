@@ -1,6 +1,6 @@
 {
   "name": "@solviofoundation/amos-topics",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "## Licenses All work here is dedicated to the public domain. Read the summary [here](https://creativecommons.org/publicdomain/zero/1.0/) and the full legal text [here](./LICENSE.md).",
   "main": "src/index.js",
   "scripts": {
