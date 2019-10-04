@@ -18,4 +18,4 @@ topics = R.join (`\n`) (topicsLines)
 
 Object.defineProperty(exports, `__esModule`, {value: true})
 
-exports.default = topics
+exports = topics
