@@ -16,6 +16,4 @@ topicsLines = R.reject (R.pipe (R.trim, R.either (R.isEmpty) (R.startsWith (`#`)
 
 topics = R.join (`\n`) (topicsLines)
 
-Object.defineProperty(exports, `__esModule`, {value: true})
-
-exports = topics
+module.exports = topics
