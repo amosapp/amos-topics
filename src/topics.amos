@@ -24,7 +24,7 @@ Academic
         Databases
         Computation theory / Theory of computation
           # Models of computation
-            Quantum computing
+          Quantum computing
         Complexity theory
         Programming languages and compilers
           Formal methods
@@ -37,16 +37,16 @@ Academic
         Concurrent, parallel, and distributed systems
           Blockchain
             # Blockchain protocols
-              Bitcoin
+            Bitcoin
         Computer architecture
         Cryptography
         Artificial intelligence
           Machine learning
             # By type
-              Neural networks
+            Neural networks
             # By application
-              Natural language processing
-              Computer vision
+            Natural language processing
+            Computer vision
         Data science
         Computer graphics
         Numerical analysis
@@ -117,26 +117,8 @@ Academic
     Engineering and Technology
       Software engineering
         # Software types
-          Operating systems
-            Operating systems security
-          Web development
-            HTML
-              HTML5
-            CSS
-              CSS3
-            Javascript
-            # Web development frameworks
-            React.js
-              React Native
-              React Redux
-            Vue.js
-            Express.js
-            Angular.js
-            Redux
-              React Redux
-            Web scraping
-            E-commerce
-        # Operating systems
+        Operating systems
+          Operating systems security
           Unix
           Unix-like operating systems
             Linux
@@ -144,36 +126,53 @@ Academic
               macOS
               iOS
             Android
+        Web development
+          HTML
+            HTML5
+          CSS
+            CSS3
+          Javascript
+            # Web development frameworks
+            React.js
+              React Native
+              React Redux
+          Vue.js
+          Express.js
+          Angular.js
+          Redux
+            React Redux
+          Web scraping
+          E-commerce
         # Virtualization
           Docker
         # Languages
-          # General purpose
-            Python
-              Python 3
-            C
-            C++
-              # Frameworks
-              Unreal Engine 4
-            C#
-              # Frameworks
-              Unity
-            Java
-              # Frameworks
-              Spring
-            Swift
-            Javascript
-              Node.js
-              # Frameworks
-                React.js
-                  React Router
-                Vue.js
-                Mocha
-            Ruby
-              # Frameworks
-                Ruby on Rails
-            PHP
-          # Domain specific
-            UnrealScript
+        # General purpose
+          Python
+            Python 3
+          C
+          C++
+            # Frameworks
+            Unreal Engine 4
+          C#
+            # Frameworks
+            Unity
+          Java
+            # Frameworks
+            Spring
+          Swift
+          Javascript
+            Node.js
+            # Frameworks
+            React.js
+              React Router
+            Vue.js
+            Mocha
+          Ruby
+            # Frameworks
+            Ruby on Rails
+          PHP
+        # Domain specific
+          UnrealScript
         # Programming paradigms
           Object-oriented programming
           Functional programming
@@ -182,20 +181,20 @@ Academic
           Computer networks
             Cloud computing
               # Cloud computing platforms
-                Amazon Web Services
-                Google Cloud Platform
-                Azure
+              Amazon Web Services
+              Google Cloud Platform
+              Azure
             Internet
               Internet security
               Internet of things
           # Gadgets
-            Arduino
-            Rasberry Pi
+          Arduino
+          Rasberry Pi
           # Databases
-            # Database query languages
-            # Database paradigms
-              Document-oriented databases
-                MongoDB
+          # Database query languages
+          # Database paradigms
+          Document-oriented databases
+            MongoDB
             SQL
               MySQL
               Oracle SQL
@@ -489,30 +488,30 @@ Academic
     Linguistics
       # https://www.wikiwand.com/en/Outline_of_linguistics#/Branches_of_linguistics
       # Subfields
-        Theoretical Linguistics
-        Descriptive linguistics
-        Applied linguistics
+      Theoretical Linguistics
+      Descriptive linguistics
+      Applied linguistics
       # By linguistic structures studied
-        Phonetics
-        Phonology
-        Morphology
-        Syntax
-        Semantics
-        Pragmatics
-        Discourse analysis
-        Linguistic typology
+      Phonetics
+      Phonology
+      Morphology
+      Syntax
+      Semantics
+      Pragmatics
+      Discourse analysis
+      Linguistic typology
       # By Nonlinguistic factors studied
-        Biolinguistics
-        Clinical linguistics
-        Computational linguistics
-        Developmental linguistics
-        Evolutionary linguistics
-        Historical linguistics
-        Language geography
-        Neurolinguistics
-        Psycholinguistics
-        Sociolinguistics
-        Stylistics
+      Biolinguistics
+      Clinical linguistics
+      Computational linguistics
+      Developmental linguistics
+      Evolutionary linguistics
+      Historical linguistics
+      Language geography
+      Neurolinguistics
+      Psycholinguistics
+      Sociolinguistics
+      Stylistics
     Management
     Media studies
     Philosophy
