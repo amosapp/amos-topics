@@ -1,23 +1,22 @@
 {
-  "name": "@solviofoundation/amos-topics",
+  "name": "@amosapp/amos-topics",
   "version": "1.6.0",
-  "description": "## Licenses All work here is dedicated to the public domain. Read the summary [here](https://creativecommons.org/publicdomain/zero/1.0/) and the full legal text [here](./LICENSE.md).",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/solviofoundation/amos-topics.git"
+    "url": "git+https://github.com/amosapp/amos-topics.git"
   },
   "author": "",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/solviofoundation/amos-topics/issues"
+    "url": "https://github.com/amosapp/amos-topics/issues"
   },
-  "homepage": "https://github.com/solviofoundation/amos-topics#readme",
+  "homepage": "https://github.com/amosapp/amos-topics#readme",
   "peerDependencies": {
-    "amos-parser": "github:solviofoundation/amos-parser#master"
+    "amos-parser": "github:amosapp/amos-parser#master"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
